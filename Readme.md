@@ -6,7 +6,7 @@
 
 Projeto construido para treinar e fixar os conhecimentos do FlexBox
 
-[Clique aqui para acessar](https://eltonobreza.github.io/NLW-eSports-Rocketseat/)
+[Clique aqui para acessar](eltonobreza.github.io/Dev-Coffee/)
 
 ## 🛠 Tecnologias
 
