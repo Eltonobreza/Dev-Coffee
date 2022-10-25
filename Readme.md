@@ -6,7 +6,7 @@
 
 Projeto construido para treinar e fixar os conhecimentos do FlexBox
 
-[Clique aqui para acessar](https://eltonobreza.github.io/Dev-Coffee/)
+[Clique aqui para acessar](https://eltonobreza.github.io/Dev-Coffee)
 
 ## 🛠 Tecnologias
 
